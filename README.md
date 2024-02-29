@@ -43,6 +43,11 @@ Validation Set: Spliting  dataset into a training set and a validation set.
 Metrics: Evaluate the model's performance on the validation set using metrics like Word Error Rate (WER) or Character Error Rate (CER). These are used to measure the difference between the predicted transcripts and the ground truth.
 
 
+5) Noice reduction 
+
+modal work completely fine if there is background noice or any chaos in surrounding.
+
+
 
 and final output will be there in form of transcript . and also will be adding text to speech as well to reverify the data.
 
